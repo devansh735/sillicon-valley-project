@@ -1,0 +1,72 @@
+body{
+    background-color: chartreuse;
+}
+
+h1 {
+	color: red;
+	font-family: 'Yeon Sung';
+	font-size: 60px;
+	letter-spacing: 10px;
+	margin-top: 80px;
+}
+
+ #logo{
+	width: 400px;
+    border-right:-15px;
+}
+
+ .login_div{
+	background: rgba(255, 255, 255, 0.8);
+	float: none;
+}
+
+#line1{
+	font-size: large;
+}
+
+h3{
+	font-size:90;
+	color:chartreuse;
+}
+
+.button2{
+	text-align: right;
+	width:20%;
+	height:20%;
+}
+.button3{
+text-align: right;
+width:20%;
+height:20%;
+}
+
+#no1{
+	font-size:20px;
+	color:red;
+}
+#no2{
+	font-size:20px;
+	color:red;
+}
+p{
+	font-size:20px;
+	color:red;
+}
+
+img{
+	width:30%;
+	height:30%;
+}
+
+#head{
+	font-size:25px;
+	color:green;
+}
+#head1{
+	font-size:25px;
+	color:green;
+}
+#head2{
+	font-size:25px;
+    color:green;
+}
